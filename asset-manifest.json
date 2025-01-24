@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "./static/css/main.498a202b.css",
+    "main.js": "./static/js/main.124174ae.js",
+    "static/js/488.e75445ad.chunk.js": "./static/js/488.e75445ad.chunk.js",
+    "static/media/fotoDePerfil.png": "./static/media/fotoDePerfil.ed9e099f2e300669d397.png",
+    "static/media/amssolucoeslogo.png": "./static/media/amssolucoeslogo.3773d64db397aafdd49b.png",
+    "index.html": "./index.html",
+    "main.498a202b.css.map": "./static/css/main.498a202b.css.map",
+    "main.124174ae.js.map": "./static/js/main.124174ae.js.map",
+    "488.e75445ad.chunk.js.map": "./static/js/488.e75445ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.498a202b.css",
+    "static/js/main.124174ae.js"
+  ]
+}
